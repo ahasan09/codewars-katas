@@ -96,7 +96,7 @@ const getVillainName = birthday => {
 
 // Short Solution
 const getVillainName = birthday =>
-  `${firstNames[birthday.getMonth()]} ${lastNames[birthday.getDate() % 10]}`
+  `${firstNames[birthday.getUTCMonth()]} ${lastNames[(birthday.getUTCDate() - 1) % 10]}`
 
 // Function Export
 module.exports = getVillainName
