@@ -1,0 +1,1111 @@
+
+> test
+> jest
+
+(node:87716) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Thinkful - String Drills: Poem formatter/index.test.js
+(node:87714) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Suzuki needs help lining up his students/index.test.js
+(node:87712) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:87709) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Robotic Tattoo Removal/index.test.js
+PASS 8-kyu/Is the string uppercase/index.test.js
+(node:87717) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Sort Out The Men From Boys/index.test.js
+(node:87708) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Speed Control/index.test.js
+(node:87710) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 8-kyu/Logical calculator/index.test.js
+(node:87713) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Ranking position/index.test.js
+PASS 7-kyu/Calculate mean and concatenate string/index.test.js
+(node:87711) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:87719) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Help Suzuki rake his garden/index.test.js
+(node:87715) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 8-kyu/How many stairs will Suzuki climb in 20 years/index.test.js
+(node:87718) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 8-kyu/Training JS #6: Basic data types--Boolean and conditional statements if..else/index.test.js
+PASS 7-kyu/Complete The Pattern #1/index.test.js
+PASS 8-kyu/Training JS #29: Methods of arrayObject---concat() and join()/index.test.js
+PASS 5-kyu/Greed is Good/index.test.js
+PASS 6-kyu/Are all elements equal?/index.test.js
+PASS 7-kyu/Loose Change!/index.test.js
+PASS 5-kyu/Sort arrays - 3/index.test.js
+PASS 8-kyu/Generate range of integers/index.test.js
+PASS 8-kyu/Define a card suit/index.test.js
+PASS 6-kyu/Vasya - Clerk/index.test.js
+PASS 8-kyu/Find out whether the shape is a cube/index.test.js
+PASS 7-kyu/Return String of First Characters/index.test.js
+PASS 8-kyu/SpeedCode #3 × Fun with ES6 Classes #5 - Dogs and Classes/index.test.js
+PASS 7-kyu/Count the Digit/index.test.js
+PASS 5-kyu/Directions Reduction/index.test.js
+PASS 7-kyu/The Span Function/index.test.js
+PASS 7-kyu/Guess the Word: Count Matching Letters/index.test.js
+PASS 7-kyu/Borrower Speak/index.test.js
+PASS 7-kyu/Making Copies/index.test.js
+PASS 7-kyu/Word values/index.test.js
+PASS 7-kyu/More than one way to call a function, or skin a cat/index.test.js
+PASS 7-kyu/The Hidden Word/index.test.js
+PASS 7-kyu/Split In Parts/index.test.js
+PASS 8-kyu/Are You Playing Banjo?/index.test.js
+PASS 7-kyu/Return Specifics from an Object./index.test.js
+PASS 7-kyu/Make them bark/index.test.js
+PASS 7-kyu/Row Weights/index.test.js
+PASS 8-kyu/Generate user links/index.test.js
+PASS 8-kyu/Stringy Strings/index.test.js
+PASS 7-kyu/Naming Files/index.test.js
+PASS 7-kyu/Ones and Zeros/index.test.js
+PASS 8-kyu/Semi-Optional/index.test.js
+PASS 8-kyu/Training JS #9: loop statement --while and do..while/index.test.js
+PASS 7-kyu/Incrementer /index.test.js
+PASS 8-kyu/Basic variable assignment/index.test.js
+PASS 7-kyu/All, None & Any/index.test.js
+PASS 8-kyu/Be Concise II - I Need Squares/index.test.js
+PASS 8-kyu/Potenciation/index.test.js
+PASS 8-kyu/Multiple of index/index.test.js
+PASS 7-kyu/Temperature analysis I/index.test.js
+PASS 7-kyu/Multiply the strings in the array/index.test.js
+PASS 8-kyu/Is the date today/index.test.js
+PASS 6-kyu/IQ Test/index.test.js
+PASS 7-kyu/Inverting a Hash/index.test.js
+(node:87707) Warning: `--localstorage-file` was provided without a valid path
+(Use `node --trace-warnings ...` to show where the warning was created)
+PASS 7-kyu/Find the next perfect square!/index.test.js
+PASS 7-kyu/Sorted Union/index.test.js
+PASS 7-kyu/Email Address Obfuscator/index.test.js
+PASS 7-kyu/Greet Me/index.test.js
+PASS 7-kyu/Building blocks/index.test.js
+PASS 8-kyu/Training JS #34: methods of Math---pow() sqrt() and cbrt()/index.test.js
+PASS 7-kyu/How many animals are there?/index.test.js
+PASS 7-kyu/Alphabetize a list by the nth character/index.test.js
+PASS 8-kyu/Localize The Barycenter of a Triangle/index.test.js
+PASS 7-kyu/Sum ALL the arrays!/index.test.js
+PASS 7-kyu/Get the Middle Character/index.test.js
+PASS 7-kyu/Simple string characters/index.test.js
+PASS 7-kyu/The Office II - Boredom Score/index.test.js
+PASS 7-kyu/Scrolling Text/index.test.js
+PASS 7-kyu/Some Circles/index.test.js
+PASS 7-kyu/Nice Array/index.test.js
+PASS 7-kyu/Ninja vs Samurai: Strike/index.test.js
+PASS 7-kyu/Power of two/index.test.js
+PASS 7-kyu/Double Sort/index.test.js
+PASS 7-kyu/Santa's Naughty List/index.test.js
+PASS 8-kyu/Remove exclamation marks/index.test.js
+PASS 7-kyu/Ghostbusters (whitespace removal)/index.test.js
+PASS 7-kyu/Find twins/index.test.js
+PASS 7-kyu/Linked Lists - Get Nth Node/index.test.js
+PASS 7-kyu/Find Your Villain Name/index.test.js
+PASS 5-kyu/Human Readable Time/index.test.js
+PASS 7-kyu/Filter unused digits/index.test.js
+PASS 7-kyu/Reducing Problems - Bug Fixing #8/index.test.js
+PASS 7-kyu/Weird words /index.test.js
+PASS 7-kyu/You're a square!/index.test.js
+PASS 8-kyu/Is there a vowel in there?/index.test.js
+PASS 7-kyu/JavaScript Array Filter/index.test.js
+PASS 7-kyu/String Reversing, Changing case, etc./index.test.js
+PASS 7-kyu/Narcissistic Numbers/index.test.js
+PASS 7-kyu/Odd or Even?/index.test.js
+PASS 8-kyu/This is a problem/index.test.js
+PASS 7-kyu/char_to_ascii/index.test.js
+PASS 7-kyu/Longest vowel chain/index.test.js
+PASS 7-kyu/Find array/index.test.js
+PASS 7-kyu/String reverse slicing 101/index.test.js
+PASS 7-kyu/esreveR/index.test.js
+PASS 7-kyu/Unlimited Sum/index.test.js
+PASS 7-kyu/Thinking & Testing : Uniq or not Uniq/index.test.js
+PASS 7-kyu/Minimum Steps (Array Series #6)/index.test.js
+PASS 7-kyu/Shortest Word/index.test.js
+PASS 8-kyu/Super Duper Easy/index.test.js
+PASS 7-kyu/Simple Fun #213: Is Function?/index.test.js
+PASS 8-kyu/Well of Ideas - Easy Version/index.test.js
+PASS 7-kyu/Is this working?/index.test.js
+PASS 7-kyu/Is Undefined?/index.test.js
+PASS 7-kyu/Adding useful functional functionality to JavaScript arrays/index.test.js
+PASS 8-kyu/My head is at the wrong end/index.test.js
+PASS 8-kyu/Age Range Compatibility Equation/index.test.js
+PASS 8-kyu/Exclusive or (xor) Logical Operator/index.test.js
+PASS 7-kyu/Sum of the first nth term of Series/index.test.js
+PASS 6-kyu/Take a Number And Sum Its Digits Raised To The Consecutive Powers /index.test.js
+PASS 7-kyu/Sign in Sign out but sign it/index.test.js
+PASS 7-kyu/NATO Phonetic Alphabet/index.test.js
+PASS 7-kyu/Dropcaps/index.test.js
+PASS 7-kyu/Find the Square Root/index.test.js
+PASS 7-kyu/Exclamation marks series #3: Remove all exclamation marks from sentence except at the end/index.test.js
+PASS 8-kyu/get character from ASCII Value/index.test.js
+PASS 7-kyu/Disarium Number (Special Numbers Series #3)/index.test.js
+PASS 8-kyu/Training JS #32: methods of Math---round() ceil() and floor()/index.test.js
+PASS 8-kyu/To square(root) or not to square(root)/index.test.js
+PASS 8-kyu/Training JS #16: Methods of String object--slice(), substring() and substr()/index.test.js
+PASS 8-kyu/The falling speed of petals/index.test.js
+PASS 8-kyu/Sum of Multiples/index.test.js
+PASS 8-kyu/Number of People in the Bus/index.test.js
+PASS 8-kyu/Lexical this/index.test.js
+PASS 8-kyu/Operator Precedence (for beginners)/index.test.js
+PASS 8-kyu/Third Angle of a Triangle/index.test.js
+PASS 8-kyu/Determine offspring sex based on genes XX and XY chromosomes/index.test.js
+PASS 8-kyu/Get number from string/index.test.js
+PASS 8-kyu/Beginner Series #4 Cockroach/index.test.js
+PASS 6-kyu/Counting Duplicates/index.test.js
+PASS 5-kyu/Palindrome chain length/index.test.js
+PASS 7-kyu/isIsogram/index.test.js
+PASS 7-kyu/Use map() to double the values in an array/index.test.js
+PASS 7-kyu/Unique string characters/index.test.js
+PASS 7-kyu/Sum up the random string/index.test.js
+PASS 7-kyu/ToLeetSpeak/index.test.js
+PASS 7-kyu/Swap two numbers/index.test.js
+PASS 7-kyu/Printer Errors/index.test.js
+PASS 7-kyu/Remove the noise from the string/index.test.js
+PASS 7-kyu/Nth Smallest Element (Array Series #4) /index.test.js
+PASS 7-kyu/How Many Unique Consonants?/index.test.js
+PASS 7-kyu/Find how many times did a team from a given country win the Champions League?/index.test.js
+PASS 7-kyu/Name Array Capping/index.test.js
+PASS 7-kyu/Powers of 3/index.test.js
+PASS 7-kyu/Powers of i/index.test.js
+PASS 7-kyu/Compare Strings by Sum of Chars/index.test.js
+PASS 7-kyu/Battle of the characters (Easy)/index.test.js
+PASS 8-kyu/Smallest unused ID/index.test.js
+PASS 8-kyu/Grasshopper - Variable Assignment Debug/index.test.js
+PASS 8-kyu/Holiday VIII - Duty Free/index.test.js
+PASS 8-kyu/Get Planet Name By ID/index.test.js
+PASS 8-kyu/Reversing Words in a String/index.test.js
+PASS 7-kyu/Automorphic Number (Special Numbers Series #6)/index.test.js
+PASS 8-kyu/Area of a Square/index.test.js
+PASS 8-kyu/Duck Duck Goose/index.test.js
+PASS 6-kyu/Title Case/index.test.js
+PASS 6-kyu/WeIrD StRiNg CaSe/index.test.js
+PASS 8-kyu/Do you speak English?/index.test.js
+PASS 8-kyu/Drink about/index.test.js
+PASS 6-kyu/Build a pile of Cubes/index.test.js
+PASS 7-kyu/Unique numbers/index.test.js
+PASS 7-kyu/Sum of all arguments/index.test.js
+PASS 7-kyu/The Office IV - Find a Meeting Room/index.test.js
+PASS 7-kyu/SevenAte9/index.test.js
+PASS 7-kyu/makeBackronym/index.test.js
+PASS 7-kyu/Series of integers from 0 to n/index.test.js
+PASS 7-kyu/Reverse and Invert/index.test.js
+PASS 7-kyu/Product of the main diagonal of a square matrix/index.test.js
+PASS 7-kyu/Regexp Basics - is it a letter?/index.test.js
+PASS 5-kyu/Convert PascalCase string into snake_case/index.test.js
+PASS 7-kyu/Remove Empty Items of Array/index.test.js
+PASS 7-kyu/Product Of Maximums Of Array (Array Series #2) /index.test.js
+PASS 7-kyu/Random case/index.test.js
+PASS 7-kyu/Product of Largest Pair/index.test.js
+PASS 7-kyu/Complete The Pattern #5 - Even Ladder/index.test.js
+PASS 7-kyu/Insert dashes/index.test.js
+PASS 7-kyu/Character Counter/index.test.js
+PASS 7-kyu/MinMinMax/index.test.js
+PASS 7-kyu/Dan's great power generator/index.test.js
+PASS 7-kyu/Chain me/index.test.js
+PASS 7-kyu/Password maker/index.test.js
+PASS 8-kyu/Training JS #11: loop statement --break,continue/index.test.js
+PASS 8-kyu/Tip Calculator/index.test.js
+PASS 8-kyu/Hex to Decimal/index.test.js
+PASS 8-kyu/Pirates Are the Cannons ready/index.test.js
+PASS 8-kyu/Word Count/index.test.js
+PASS 8-kyu/Parse nice int from char problem/index.test.js
+PASS 8-kyu/Coding 3min : Jumping Dutch act/index.test.js
+PASS 8-kyu/Count of positives - sum of negatives/index.test.js
+PASS 8-kyu/Count the Monkeys/index.test.js
+PASS 6-kyu/Multiples of 3 and 5/index.test.js
+PASS 8-kyu/Freudian translator/index.test.js
+PASS 7-kyu/Vampire Numbers/index.test.js
+PASS 6-kyu/Reverse words/index.test.js
+PASS 7-kyu/Symbols counted /index.test.js
+PASS 7-kyu/Sort and Transform/index.test.js
+PASS 7-kyu/Sort array by string length/index.test.js
+PASS 7-kyu/Sum of a Beach/index.test.js
+PASS 7-kyu/Sort by Example/index.test.js
+PASS 7-kyu/SillyCASE/index.test.js
+PASS 7-kyu/See You Next Happy Year /index.test.js
+PASS 7-kyu/Remove anchor from URL/index.test.js
+PASS 7-kyu/Product Array (Array Series #5)/index.test.js
+PASS 7-kyu/Replace all items/index.test.js
+PASS 7-kyu/Regex validate PIN code/index.test.js
+PASS 7-kyu/Naughty or Nice? II/index.test.js
+PASS 7-kyu/Regex Failure - Bug Fixing #2/index.test.js
+PASS 7-kyu/Love vs friendship/index.test.js
+PASS 7-kyu/Is every value in the array an array?/index.test.js
+PASS 7-kyu/Keypad horror/index.test.js
+PASS 7-kyu/How many times should I go?/index.test.js
+PASS 7-kyu/Hit Count/index.test.js
+PASS 7-kyu/How many are smaller than me?/index.test.js
+PASS 7-kyu/Find the middle element/index.test.js
+PASS 7-kyu/Highest and Lowest/index.test.js
+PASS 7-kyu/Coding 3min : Hacker and change/index.test.js
+PASS 7-kyu/Failed Sort - Bug Fixing #4/index.test.js
+PASS 7-kyu/Find divisors of a number/index.test.js
+PASS 7-kyu/Array.prototype.reverse/index.test.js
+PASS 7-kyu/Check if a triangle is an equable triangle!/index.test.js
+PASS 8-kyu/easy logs/index.test.js
+PASS 8-kyu/Watermelon/index.test.js
+PASS 8-kyu/Thinkful - Number Drills: Pixelart planning/index.test.js
+PASS 8-kyu/What's up next?/index.test.js
+PASS 8-kyu/The Wide-Mouthed frog/index.test.js
+PASS 8-kyu/Sum without highest and lowest number/index.test.js
+PASS 8-kyu/Training JS #4: Basic data types--Array/index.test.js
+PASS 8-kyu/Calculate average/index.test.js
+PASS 8-kyu/How many lightsabers do you own?/index.test.js
+PASS 8-kyu/Enumerable Magic #3 - Does My List Include This?/index.test.js
+PASS 8-kyu/Grasshopper - Basic Function Fixer/index.test.js
+PASS 8-kyu/Regexp Basics - is it a digit?/index.test.js
+PASS 8-kyu/Fun with ES6 Classes #1 - People, people, people/index.test.js
+PASS 8-kyu/Beginner Series 2 Clock/index.test.js
+PASS 8-kyu/How good are you really?/index.test.js
+PASS 8-kyu/Did she say hallo?/index.test.js
+PASS 6-kyu/Stop gninnipS My sdroW!/index.test.js
+PASS 6-kyu/Decode the Morse code/index.test.js
+PASS 5-kyu/Where my anagrams at?/index.test.js
+PASS 7-kyu/Supernatural/index.test.js
+PASS 7-kyu/getNames()/index.test.js
+PASS 5-kyu/Product of consecutive Fib numbers/index.test.js
+PASS 7-kyu/Validate credit card expiry date/index.test.js
+PASS 7-kyu/Tail Swap/index.test.js
+PASS 7-kyu/Sort Santa's Reindeer/index.test.js
+PASS 7-kyu/Sum of odd numbers/index.test.js
+PASS 7-kyu/Sum The Strings: ARRAY EDITION/index.test.js
+PASS 7-kyu/Spacify/index.test.js
+PASS 7-kyu/Sum even numbers/index.test.js
+PASS 7-kyu/Simple consecutive pairs/index.test.js
+PASS 7-kyu/Slaphead/index.test.js
+PASS 7-kyu/Series of integers from m to n/index.test.js
+PASS 7-kyu/Scoring Tests/index.test.js
+PASS 7-kyu/Reverse a Number/index.test.js
+PASS 7-kyu/Move all vowels/index.test.js
+PASS 7-kyu/Number Pairs/index.test.js
+PASS 7-kyu/Make the small words big!/index.test.js
+PASS 7-kyu/Product of Array Items/index.test.js
+PASS 7-kyu/Round to the next multiple of 5/index.test.js
+PASS 7-kyu/Friend or Foe?/index.test.js
+PASS 7-kyu/Is my string repeating the same character over and over ?/index.test.js
+PASS 7-kyu/Length of the line segment/index.test.js
+PASS 7-kyu/Formatting decimal places #1/index.test.js
+PASS 7-kyu/Flatten/index.test.js
+PASS 7-kyu/Cut array into smaller parts/index.test.js
+PASS 7-kyu/Indexed capitalization/index.test.js
+PASS 7-kyu/Difference Of Squares/index.test.js
+PASS 8-kyu/Transportation on vacation/index.test.js
+PASS 7-kyu/Basic Math (Add or Subtract)/index.test.js
+PASS 8-kyu/Sum of differences in array/index.test.js
+PASS 8-kyu/Who is going to pay for the wall?/index.test.js
+PASS 7-kyu/By 3, or not by 3? That is the question . . ./index.test.js
+PASS 8-kyu/Sum The Strings/index.test.js
+PASS 8-kyu/Swap Values/index.test.js
+PASS 7-kyu/Beginner Series #3 Sum of Numbers/index.test.js
+PASS 7-kyu/Add property to every object in array/index.test.js
+PASS 8-kyu/Price of Mangoes/index.test.js
+PASS 8-kyu/Regular Ball Super Ball/index.test.js
+PASS 8-kyu/Student's Final Grade/index.test.js
+PASS 8-kyu/Pre-FizzBuzz Workout #1/index.test.js
+PASS 8-kyu/Max Headroom and JavaScript style/index.test.js
+PASS 8-kyu/L1: Bartender, drinks/index.test.js
+PASS 8-kyu/Is it even?/index.test.js
+PASS 8-kyu/Keep Hydrated/index.test.js
+PASS 8-kyu/Invert values/index.test.js
+PASS 8-kyu/Invalid Login - Bug Fixing #11/index.test.js
+PASS 8-kyu/Can we divide it?/index.test.js
+PASS 8-kyu/Convert boolean values to strings 'Yes' or 'No'/index.test.js
+PASS 8-kyu/Is he gonna survive?/index.test.js
+PASS 8-kyu/Basic Training: Add item to an Array/index.test.js
+PASS 8-kyu/Hello Happy Codevarrior/index.test.js
+PASS 8-kyu/Compare within margin/index.test.js
+PASS 8-kyu/Aspect Ratio Cropping - Part 1/index.test.js
+PASS 8-kyu/Find variable which breaks strict comparison/index.test.js
+PASS 6-kyu/Reversed Words/index.test.js
+PASS 6-kyu/Find The Parity Outlier/index.test.js
+PASS 6-kyu/Tribonacci Sequence/index.test.js
+PASS 5-kyu/Convert string to camel case/index.test.js
+PASS 7-kyu/Triangular Treasure/index.test.js
+PASS 7-kyu/We Have Liftoff/index.test.js
+PASS 5-kyu/First non-repeating character/index.test.js
+PASS 7-kyu/Two fighters, one winner/index.test.js
+PASS 7-kyu/Turn any word into a beef taco/index.test.js
+PASS 7-kyu/Sum of integers in string/index.test.js
+PASS 7-kyu/Thinkful - Number Drills: Rømer temperature/index.test.js
+PASS 7-kyu/Sum of Triangular Numbers/index.test.js
+PASS 7-kyu/Timmy Time/index.test.js
+PASS 7-kyu/Sort with Arrow Functions/index.test.js
+PASS 7-kyu/Regexp basics - parsing prices/index.test.js
+PASS 7-kyu/Number-like counter/index.test.js
+PASS 7-kyu/Password Hashes/index.test.js
+PASS 7-kyu/Possiblities Array/index.test.js
+PASS 7-kyu/Magic Sum of 3s/index.test.js
+PASS 7-kyu/Power of 4/index.test.js
+PASS 7-kyu/Parts of a list/index.test.js
+PASS 7-kyu/Number climber/index.test.js
+PASS 7-kyu/Rearange Number to Get its Maximum/index.test.js
+PASS 7-kyu/Odd Ones Out!/index.test.js
+PASS 7-kyu/Jaden Casing Strings/index.test.js
+PASS 7-kyu/Katastrophe/index.test.js
+PASS 7-kyu/Is it a vowel on this position?/index.test.js
+PASS 7-kyu/I guess this is a 7kyu kata #4: Find 0 and 1/index.test.js
+PASS 7-kyu/Determine if the poker hand is flush/index.test.js
+PASS 7-kyu/Do you speak retsec?/index.test.js
+PASS 7-kyu/Find factors of a number/index.test.js
+PASS 7-kyu/How many times does it contain/index.test.js
+PASS 7-kyu/Find Count of Most Frequent Item in an Array/index.test.js
+PASS 7-kyu/Exclamation marks series #5: Remove all exclamation marks from the end of words/index.test.js
+PASS 7-kyu/Colour Association/index.test.js
+PASS 7-kyu/Functional Addition/index.test.js
+PASS 7-kyu/How many arguments/index.test.js
+PASS 7-kyu/Excel sheet column numbers/index.test.js
+PASS 7-kyu/Clean up after your dog/index.test.js
+PASS 7-kyu/Capitalize first letter of a string/index.test.js
+PASS 7-kyu/Always perfect/index.test.js
+PASS 8-kyu/What's the real floor?/index.test.js
+PASS 7-kyu/Anagram Detection/index.test.js
+PASS 8-kyu/noobCode 02: TRICKY QUESTIONS , primitives and operator precedence/index.test.js
+PASS 7-kyu/Basic Calculator/index.test.js
+PASS 8-kyu/UEFA EURO 2016/index.test.js
+PASS 7-kyu/Candy problem/index.test.js
+PASS 8-kyu/SpeedCode #2 - Array Madness/index.test.js
+PASS 8-kyu/Take an Arrow to the knee, Functionally/index.test.js
+PASS 8-kyu/repeatIt/index.test.js
+PASS 8-kyu/Simple validation of a username with regex/index.test.js
+PASS 8-kyu/Training JS #15: Methods of Number object--toFixed(), toExponential() and toPrecision()/index.test.js
+PASS 8-kyu/Short Long Short/index.test.js
+PASS 8-kyu/Counting sheep/index.test.js
+PASS 8-kyu/Rock Paper Scissors/index.test.js
+PASS 8-kyu/Is this my tail?/index.test.js
+PASS 8-kyu/Pole Vault Starting Marks/index.test.js
+PASS 8-kyu/A Strange Trip to the Market/index.test.js
+PASS 7-kyu/regex validation of 24 hours time./index.test.js
+PASS 5-kyu/PaginationHelper/index.test.js
+PASS 8-kyu/Geometry Basics: Circle Circumference in 2D/index.test.js
+PASS 8-kyu/Find Multiples of a Number/index.test.js
+PASS 8-kyu/For UFC Fans (Total Beginners): Conor McGregor vs George Saint Pierre/index.test.js
+PASS 8-kyu/Crash Override/index.test.js
+PASS 6-kyu/Playing with digits/index.test.js
+PASS 8-kyu/Heads and Legs/index.test.js
+PASS 7-kyu/max diff - easy/index.test.js
+PASS 7-kyu/isAN(value)/index.test.js
+PASS 7-kyu/Unpacking Arguments/index.test.js
+PASS 7-kyu/Sum Times Tables/index.test.js
+PASS 7-kyu/Vowel Count/index.test.js
+PASS 7-kyu/String matchup/index.test.js
+PASS 7-kyu/String chunks/index.test.js
+PASS 7-kyu/The Office I - Outed/index.test.js
+PASS 7-kyu/V A P O R C O D E/index.test.js
+PASS 7-kyu/Square Every Digit/index.test.js
+PASS 7-kyu/Unlucky Days/index.test.js
+PASS 7-kyu/String Merge!/index.test.js
+PASS 7-kyu/The Pony Express/index.test.js
+PASS 7-kyu/Refactored Greeting/index.test.js
+PASS 7-kyu/Russian postal code checker/index.test.js
+PASS 7-kyu/Pull your words together, man!/index.test.js
+PASS 7-kyu/Recursive Replication/index.test.js
+PASS 7-kyu/Playing with types/index.test.js
+PASS 7-kyu/Operator overload ?/index.test.js
+PASS 7-kyu/Password System/index.test.js
+PASS 7-kyu/Offload your work!/index.test.js
+PASS 7-kyu/Nickname Generator/index.test.js
+PASS 7-kyu/Musical Pitch Classes/index.test.js
+PASS 7-kyu/Numbers in different systems /index.test.js
+PASS 7-kyu/Maximum Triplet Sum (Array Series #7) /index.test.js
+PASS 7-kyu/Numbers to Letters/index.test.js
+PASS 7-kyu/Maximum Length Difference/index.test.js
+PASS 7-kyu/Initialize my name/index.test.js
+PASS 7-kyu/Lost number in number sequence/index.test.js
+PASS 7-kyu/How many twos?/index.test.js
+PASS 7-kyu/Lowercase strings in array/index.test.js
+PASS 7-kyu/Find The Duplicated Number in a Consecutive Unsorted List/index.test.js
+PASS 7-kyu/Insert Dashes 2/index.test.js
+PASS 7-kyu/Bob's Short Forms/index.test.js
+PASS 7-kyu/CubeSummation/index.test.js
+PASS 7-kyu/Basic method/index.test.js
+PASS 7-kyu/Are there doubles?/index.test.js
+PASS 7-kyu/Boiled Eggs/index.test.js
+PASS 7-kyu/Array Mash/index.test.js
+PASS 7-kyu/Bingo ( Or Not )/index.test.js
+PASS 8-kyu/You Can't Code Under Pressure #1/index.test.js
+PASS 7-kyu/All Inclusive?/index.test.js
+PASS 7-kyu/Alphabet war/index.test.js
+PASS 8-kyu/Volume of a Cuboid/index.test.js
+PASS 8-kyu/Vowel remover/index.test.js
+PASS 8-kyu/Training JS #7: if..else and ternary operator/index.test.js
+PASS 8-kyu/Training JS #3: Basic data types--String/index.test.js
+PASS 8-kyu/Reversed sequence/index.test.js
+PASS 8-kyu/Powers of 2/index.test.js
+PASS 8-kyu/Polish alphabet/index.test.js
+PASS 8-kyu/Training JS #14: Methods of Number object--toString() and toLocaleString()/index.test.js
+PASS 8-kyu/Points of Reflection/index.test.js
+PASS 8-kyu/Return to Sanity/index.test.js
+PASS 8-kyu/Multiply the number/index.test.js
+PASS 8-kyu/Palindrome Strings/index.test.js
+PASS 8-kyu/Is n divisible by x and y?/index.test.js
+PASS 8-kyu/Name on billboard/index.test.js
+PASS 8-kyu/Kata Example Twist/index.test.js
+PASS 8-kyu/Lario and Muigi Pipe Problem/index.test.js
+PASS 8-kyu/Improving Math.round(x)/index.test.js
+PASS 8-kyu/Grasshopper - Terminal Game #1/index.test.js
+PASS 8-kyu/Grasshopper - Shopping list/index.test.js
+PASS 8-kyu/Grasshopper - Make change/index.test.js
+PASS 8-kyu/Find n'th Digit of a Number/index.test.js
+PASS 8-kyu/Grasshopper - Messi Goals/index.test.js
+PASS 8-kyu/Fix the Bugs (Syntax) - My First Kata/index.test.js
+PASS 8-kyu/Is integer safe to use?/index.test.js
+PASS 8-kyu/Exclamation marks series #1: Remove a exclamation mark from the end of string/index.test.js
+PASS 8-kyu/Decibel Scale/index.test.js
+PASS 8-kyu/Count Odd Numbers below n/index.test.js
+PASS 8-kyu/Chuck Norris VII - True or False? (Beginner)/index.test.js
+PASS 8-kyu/Convert number to reversed array of digits/index.test.js
+PASS 8-kyu/CSV representation of array/index.test.js
+PASS 8-kyu/Calculate Price Excluding VAT/index.test.js
+PASS 8-kyu/Century From Year/index.test.js
+PASS 6-kyu/Tortoise racing/index.test.js
+PASS 6-kyu/Sum of Digits - Digital Root/index.test.js
+PASS 6-kyu/Equal Sides Of An Array/index.test.js
+PASS 6-kyu/Unique In Order/index.test.js
+PASS 6-kyu/Replace With Alphabet Position/index.test.js
+PASS 6-kyu/Consecutive strings/index.test.js
+PASS 6-kyu/Count the smiley faces!/index.test.js
+PASS 6-kyu/Does my number look big in this?/index.test.js
+PASS 5-kyu/Largest 5 digit number in a series/index.test.js
+PASS 6-kyu/Array Helpers/index.test.js
+PASS 5-kyu/Number of trailing zeros of N/index.test.js
+PASS 7-kyu/Without the letter 'E'/index.test.js
+PASS 7-kyu/Zebulan's Nightmare/index.test.js
+PASS 7-kyu/shorter concat [reverse longer]/index.test.js
+PASS 7-kyu/Unique Sum/index.test.js
+PASS 7-kyu/The reject() function/index.test.js
+PASS 7-kyu/The dropWhile Function/index.test.js
+PASS 7-kyu/Training JS #22: Unlock new skills--Arrow function,spread operator and deconstruction/index.test.js
+PASS 7-kyu/Sum of numerous arguments/index.test.js
+PASS 7-kyu/Sum of a nested list/index.test.js
+PASS 7-kyu/Summy/index.test.js
+PASS 7-kyu/Squares sequence/index.test.js
+PASS 7-kyu/Small enough? - Beginner/index.test.js
+PASS 7-kyu/Sort by Last Char/index.test.js
+PASS 7-kyu/Rotate to the max/index.test.js
+PASS 7-kyu/Recursive reverse string/index.test.js
+PASS 7-kyu/Say "Hello World" JS Style/index.test.js
+PASS 7-kyu/Principal Diagonal | VS | Secondary Diagonal/index.test.js
+PASS 7-kyu/Parse integers in array/index.test.js
+PASS 7-kyu/Only one/index.test.js
+PASS 7-kyu/Odd-Even String Sort/index.test.js
+PASS 7-kyu/Naughty or Nice? I/index.test.js
+PASS 7-kyu/Merge two arrays/index.test.js
+PASS 7-kyu/Minimize Sum Of Array (Array Series #1)/index.test.js
+PASS 7-kyu/Make every letter after X into caps. /index.test.js
+PASS 7-kyu/Form The Minimum/index.test.js
+PASS 7-kyu/Is this a triangle?/index.test.js
+PASS 7-kyu/Gauß needs help! (Sums of a lot of numbers)./index.test.js
+PASS 7-kyu/International Morse Code Encryption/index.test.js
+PASS 7-kyu/Identical Elements/index.test.js
+PASS 7-kyu/Flatten and sort an array/index.test.js
+PASS 7-kyu/Fix my method/index.test.js
+PASS 7-kyu/Interactive Dictionary/index.test.js
+PASS 7-kyu/Get key-value pairs as arrays/index.test.js
+PASS 7-kyu/Even odd disparity/index.test.js
+PASS 7-kyu/JavaScript class-like objects/index.test.js
+PASS 7-kyu/Empty that array!/index.test.js
+PASS 7-kyu/Decreasing Inputs/index.test.js
+PASS 7-kyu/Count the Characters/index.test.js
+PASS 7-kyu/Differential Averaging/index.test.js
+PASS 7-kyu/Convert a linked list to a string/index.test.js
+PASS 8-kyu/Welcome/index.test.js
+PASS 7-kyu/All unique/index.test.js
+PASS 8-kyu/altERnaTIng cAsE <=> ALTerNAtiNG CaSe/index.test.js
+PASS 8-kyu/Switch Case - Bug Fixing #6/index.test.js
+PASS 8-kyu/Square(n) Sum/index.test.js
+PASS 7-kyu/A Rule of Divisibility by 7/index.test.js
+PASS 8-kyu/USD => CNY/index.test.js
+PASS 7-kyu/Count consonants/index.test.js
+PASS 8-kyu/They say that only the name is long enough to attract attention. They also said that only a simple Kata will have someone to solve it series #1:Are they opposite/index.test.js
+PASS 8-kyu/Remove String Spaces/index.test.js
+PASS 8-kyu/Opposite number/index.test.js
+PASS 8-kyu/NBA full 48 minutes average/index.test.js
+PASS 8-kyu/Simple Fun #352: Reagent Formula/index.test.js
+PASS 8-kyu/Power/index.test.js
+PASS 8-kyu/Return the day/index.test.js
+PASS 8-kyu/Multiplication table for number/index.test.js
+PASS 8-kyu/Leonardo Dicaprio and Oscars/index.test.js
+PASS 8-kyu/Grasshopper - Combine strings/index.test.js
+PASS 8-kyu/Is it a number?/index.test.js
+PASS 8-kyu/Find the Remainder/index.test.js
+PASS 8-kyu/Jenny's secret message/index.test.js
+PASS 8-kyu/Days in the year/index.test.js
+PASS 8-kyu/Convert a String to a Number/index.test.js
+PASS 8-kyu/Collatz Conjecture (3n+1)/index.test.js
+PASS 8-kyu/Convert to Binary/index.test.js
+PASS 8-kyu/Check the exam/index.test.js
+PASS 8-kyu/A Needle in the Haystack/index.test.js
+PASS 8-kyu/Are arrow functions odd?/index.test.js
+PASS 8-kyu/101 Dalmatians - squash the bugs, not the dogs/index.test.js
+PASS 6-kyu/Dubstep/index.test.js
+PASS 6-kyu/Format a string of names like 'Bart, Lisa & Maggie'/index.test.js
+PASS 5-kyu/Break camelCase/index.test.js
+PASS 6-kyu/Array.diff/index.test.js
+PASS 7-kyu/noobCode 03: CHECK THESE LETTERS... see if letters in "String 1" are present in "String 2"/index.test.js
+PASS 5-kyu/Moving Zeros To The End/index.test.js
+PASS 7-kyu/Wordsearch/index.test.js
+PASS 7-kyu/Sum of all the multiples of 3 or 5/index.test.js
+PASS 7-kyu/Who's Online?/index.test.js
+PASS 7-kyu/String Matcher/index.test.js
+PASS 7-kyu/Rotate for a Max/index.test.js
+PASS 7-kyu/Use reduce() to calculate the sum of the values in an array/index.test.js
+PASS 7-kyu/Simple remove duplicates/index.test.js
+PASS 7-kyu/Simple Fun #40: Timed Reading/index.test.js
+PASS 7-kyu/Stanton measure/index.test.js
+PASS 7-kyu/Split an array/index.test.js
+PASS 7-kyu/Numbers in strings/index.test.js
+PASS 7-kyu/Rock Off!/index.test.js
+PASS 7-kyu/Numbers with this digit inside/index.test.js
+PASS 7-kyu/Javascript filter - 1/index.test.js
+PASS 7-kyu/Move 10/index.test.js
+PASS 7-kyu/Mumbling/index.test.js
+PASS 7-kyu/Exes and Ohs/index.test.js
+PASS 7-kyu/How many consecutive numbers are needed?/index.test.js
+PASS 7-kyu/Lost Cities Score Calculator/index.test.js
+PASS 7-kyu/Find sum of top-left to bottom-right diagonals/index.test.js
+PASS 7-kyu/Grid blast/index.test.js
+PASS 7-kyu/Don't Make Me Repeat Myself/index.test.js
+PASS 7-kyu/Fake website #6: Design an automatic beta katas processing function/index.test.js
+PASS 7-kyu/FIXME: Get Full Name/index.test.js
+PASS 7-kyu/Digitize/index.test.js
+PASS 7-kyu/Every archer has its arrows/index.test.js
+PASS 7-kyu/Debug the functions EASY/index.test.js
+PASS 7-kyu/Descending Order/index.test.js
+PASS 7-kyu/Covfefe/index.test.js
+PASS 7-kyu/Complete The Pattern #4/index.test.js
+PASS 7-kyu/Coding Meetup #6 - Higher-Order Functions Series - Can they code in the same language?/index.test.js
+PASS 7-kyu/Between Extremes/index.test.js
+PASS 7-kyu/Converting integer to currency format/index.test.js
+PASS 7-kyu/Capitals first!/index.test.js
+PASS 7-kyu/Balanced Number (Special Numbers Series #1 ) /index.test.js
+PASS 8-kyu/Welcome to the City/index.test.js
+PASS 7-kyu/Categorize New Member/index.test.js
+PASS 8-kyu/Training JS #5: Basic data types--Object/index.test.js
+PASS 8-kyu/Who ate the cookie?/index.test.js
+PASS 8-kyu/Type of sum/index.test.js
+PASS 8-kyu/Training JS #8: Conditional statement--switch/index.test.js
+PASS 8-kyu/Sum of positive/index.test.js
+PASS 8-kyu/Sum Arrays/index.test.js
+PASS 8-kyu/String repeat/index.test.js
+PASS 8-kyu/String cleaning/index.test.js
+PASS 8-kyu/String Templates - Bug Fixing #5/index.test.js
+PASS 8-kyu/Remove the time/index.test.js
+PASS 8-kyu/Last/index.test.js
+PASS 8-kyu/Implement a Filter function/index.test.js
+PASS 8-kyu/Object Oriented Piracy/index.test.js
+PASS 8-kyu/Opposites Attract/index.test.js
+PASS 8-kyu/Parse float/index.test.js
+PASS 8-kyu/No Loops 2 - You only need one/index.test.js
+PASS 8-kyu/Grasshopper - Personalized Message/index.test.js
+PASS 8-kyu/Function 3 - multiplying two numbers/index.test.js
+PASS 8-kyu/Get Nth Even Number/index.test.js
+PASS 8-kyu/Grasshopper - Grade book/index.test.js
+PASS 8-kyu/Exclamation marks series #4: Remove all exclamation marks from sentence but ensure a exclamation mark at the end of string/index.test.js
+PASS 8-kyu/Dollars and Cents/index.test.js
+PASS 6-kyu/Good vs Evil/index.test.js
+PASS 8-kyu/All Star Code Challenge #18/index.test.js
+PASS 8-kyu/Add new item (collections are passed by reference)/index.test.js
+PASS 8-kyu/Filling an array (part 1)/index.test.js
+PASS 6-kyu/Split Strings/index.test.js
+PASS 8-kyu/Cat years, Dog years/index.test.js
+PASS 6-kyu/Multi-tap Keypad Text Entry on an Old Mobile Phone/index.test.js
+PASS 5-kyu/Pete, the baker/index.test.js
+PASS 6-kyu/Bit Counting/index.test.js
+PASS 5-kyu/RGB To Hex Conversion/index.test.js
+PASS 7-kyu/isEven? - Bitwise Series/index.test.js
+PASS 5-kyu/Break camelCase 2/index.test.js
+PASS 7-kyu/makeAcronym/index.test.js
+PASS 7-kyu/What dominates your array?/index.test.js
+PASS 7-kyu/Super Class Extensions/index.test.js
+PASS 7-kyu/Thinkful - List and Loop Drills: Inverse Slicer/index.test.js
+PASS 7-kyu/Sum of Odd Cubed Numbers/index.test.js
+PASS 7-kyu/String ends with?/index.test.js
+PASS 7-kyu/Tidy Number (Special Numbers Series #9)/index.test.js
+PASS 7-kyu/Special Number (Special Numbers Series #5)/index.test.js
+PASS 7-kyu/Sort Numbers/index.test.js
+PASS 7-kyu/Ordered Count of Characters/index.test.js
+PASS 7-kyu/Regexp Basics - is it all whitespace?/index.test.js
+PASS 7-kyu/Ordering the words/index.test.js
+PASS 7-kyu/Number of Decimal Digits/index.test.js
+PASS 7-kyu/Peak array index/index.test.js
+PASS 7-kyu/No oddities here/index.test.js
+PASS 7-kyu/Multiply characters/index.test.js
+PASS 7-kyu/Maxed Out/index.test.js
+PASS 7-kyu/Jumping Number (Special Numbers Series #4)/index.test.js
+PASS 7-kyu/Moves in squared strings (I)/index.test.js
+PASS 7-kyu/List Filtering/index.test.js
+PASS 7-kyu/List to Array/index.test.js
+PASS 7-kyu/Invisible cubes/index.test.js
+PASS 7-kyu/Find the vowels/index.test.js
+PASS 7-kyu/Growth of a Population/index.test.js
+PASS 7-kyu/Limit string length - 1/index.test.js
+PASS 7-kyu/Invalid Input - Error Handling #1/index.test.js
+PASS 7-kyu/Get initials from person name/index.test.js
+PASS 7-kyu/Help the Fruit Guy/index.test.js
+PASS 7-kyu/Fizz Buzz/index.test.js
+PASS 7-kyu/Generate HTML links/index.test.js
+PASS 7-kyu/Difference between biggest 2 numbers/index.test.js
+PASS 7-kyu/Find the smallest integer in the array/index.test.js
+PASS 7-kyu/Excessively Abundant Numbers/index.test.js
+PASS 7-kyu/Find the Capitals/index.test.js
+PASS 7-kyu/Currying functions: multiply all elements in an array/index.test.js
+PASS 7-kyu/Coding Meetup #2 - Higher-Order Functions Series - Greet developers/index.test.js
+PASS 7-kyu/Coding Meetup #12 - Higher-Order Functions Series - Find GitHub admins/index.test.js
+PASS 7-kyu/Credit card issuer checking/index.test.js
+PASS 7-kyu/Deletion in an array/index.test.js
+PASS 7-kyu/Coding 3min : Special factor/index.test.js
+PASS 7-kyu/Coding Meetup #4 - Higher-Order Functions Series - Find the first Python developer/index.test.js
+PASS 7-kyu/Check three and two/index.test.js
+PASS 7-kyu/Batman Quotes/index.test.js
+PASS 7-kyu/Array comparator/index.test.js
+PASS 8-kyu/simple calculator/index.test.js
+PASS 7-kyu/Character Concatenation/index.test.js
+PASS 8-kyu/Training JS #21: Methods of String object--trim() and the string template/index.test.js
+PASS 8-kyu/Will you make it?/index.test.js
+PASS 8-kyu/Take the Derivative/index.test.js
+PASS 8-kyu/Training JS #13: Number object and its properties/index.test.js
+PASS 8-kyu/Simple Fun #261: Whose Move/index.test.js
+PASS 8-kyu/Simple Comparison?/index.test.js
+PASS 8-kyu/Sum Mixed Array/index.test.js
+PASS 8-kyu/Simple multiplication/index.test.js
+PASS 8-kyu/Online RPG: player to qualifying stage?/index.test.js
+PASS 8-kyu/Remove First and Last Character/index.test.js
+PASS 8-kyu/If you can't sleep, just count sheep/index.test.js
+PASS 8-kyu/Grasshopper - Array Mean/index.test.js
+PASS 8-kyu/Grasshopper - Debug sayHello/index.test.js
+PASS 8-kyu/Grasshopper - Terminal game move function/index.test.js
+PASS 8-kyu/Function 2 - squaring an argument/index.test.js
+PASS 8-kyu/ES6 string addition/index.test.js
+PASS 8-kyu/Count by X/index.test.js
+PASS 8-kyu/Find the first non-consecutive number/index.test.js
+PASS 8-kyu/Find the position/index.test.js
+PASS 8-kyu/Fix your code before the garden dies/index.test.js
+PASS 8-kyu/Exclamation marks series #11: Replace all vowel to exclamation mark in the sentence/index.test.js
+PASS 8-kyu/Filter out the geese/index.test.js
+PASS 8-kyu/Classy Classes/index.test.js
+PASS 6-kyu/Zero fill... for the Queen!/index.test.js
+PASS 8-kyu/Blood-Alcohol Content/index.test.js
+PASS 5-kyu/What's a Perfect Power anyway?/index.test.js
+PASS 6-kyu/Find the unique number/index.test.js
+PASS 5-kyu/Weight for weight/index.test.js
+PASS 8-kyu/Be Concise I - The Ternary Operator/index.test.js
+PASS 7-kyu/Zip it!/index.test.js
+PASS 7-kyu/Thinkful - String Drills: Areacode extractor/index.test.js
+PASS 7-kyu/Sum of numbers from 0 to N/index.test.js
+PASS 7-kyu/Two to One/index.test.js
+PASS 7-kyu/Tea for two/index.test.js
+PASS 7-kyu/Sentences with Functions/index.test.js
+PASS 7-kyu/STRONGN Strong Number (Special Numbers Series #2) /index.test.js
+PASS 5-kyu/Valid Parentheses/index.test.js
+PASS 7-kyu/Who let the dogs out?/index.test.js
+PASS 7-kyu/Shorten Me: Array Declaration II (undefined)/index.test.js
+PASS 7-kyu/Simple Fun #20: First Reverse Try/index.test.js
+PASS 7-kyu/Reversed Strings/index.test.js
+PASS 7-kyu/Return the Missing Element/index.test.js
+PASS 7-kyu/Reverse Letters in Sentence/index.test.js
+PASS 7-kyu/Reverse list/index.test.js
+PASS 7-kyu/Return a sorted list of objects/index.test.js
+PASS 7-kyu/Regexp Basics - is it a vowel?/index.test.js
+PASS 7-kyu/Pluck/index.test.js
+PASS 7-kyu/Looking for a benefactor/index.test.js
+PASS 7-kyu/Not all but sometimes all/index.test.js
+PASS 7-kyu/Not above the one!/index.test.js
+PASS 7-kyu/Playing with Sets : Intersection/index.test.js
+PASS 7-kyu/Odds-Index/index.test.js
+PASS 7-kyu/Partial Word Searching/index.test.js
+PASS 7-kyu/KISS - Keep It Simple Stupid/index.test.js
+PASS 7-kyu/Going to the cinema/index.test.js
+PASS 7-kyu/For the sake of argument/index.test.js
+PASS 7-kyu/Format With/index.test.js
+PASS 7-kyu/First-Class Function Factory/index.test.js
+PASS 7-kyu/Find the area of the rectangle!/index.test.js
+PASS 7-kyu/Find the calculation type/index.test.js
+PASS 7-kyu/Don't give me five/index.test.js
+PASS 7-kyu/Digits explosion/index.test.js
+PASS 7-kyu/Disemvowel Trolls/index.test.js
+PASS 7-kyu/Counting Array Elements/index.test.js
+PASS 7-kyu/Find missing numbers/index.test.js
+PASS 7-kyu/Digital cypher/index.test.js
+PASS 7-kyu/Even numbers in an array/index.test.js
+PASS 7-kyu/Deutschstunde/index.test.js
+PASS 7-kyu/Counting in the Amazon/index.test.js
+PASS 7-kyu/Broken sequence/index.test.js
+PASS 7-kyu/Arithmetic progression/index.test.js
+PASS 7-kyu/Building Strings From a Hash/index.test.js
+PASS 7-kyu/Coding Meetup #5 - Higher-Order Functions Series - Prepare the count of languages/index.test.js
+PASS 7-kyu/254 shades of grey/index.test.js
+PASS 7-kyu/Are the numbers in order?/index.test.js
+PASS 8-kyu/Training JS #18: Methods of String object--concat() split() and its good friend join()/index.test.js
+PASS 8-kyu/Training JS #10: loop statement --for/index.test.js
+PASS 8-kyu/Training JS #2: Basic data types--Number/index.test.js
+PASS 8-kyu/Training JS #17: Methods of String object--indexOf(), lastIndexOf() and search()/index.test.js
+PASS 8-kyu/Strive Matching #1/index.test.js
+PASS 7-kyu/Anonymous Returns/index.test.js
+PASS 8-kyu/The Feast of Many Beasts/index.test.js
+PASS 8-kyu/Thinkful - Logic Drills: Traffic light/index.test.js
+PASS 8-kyu/Name Shuffler/index.test.js
+PASS 8-kyu/L1: Set Alarm/index.test.js
+PASS 8-kyu/Merge two sorted arrays into one/index.test.js
+PASS 8-kyu/MakeUpperCase/index.test.js
+PASS 8-kyu/Grasshopper - Order of operations/index.test.js
+PASS 8-kyu/Sentence Smash/index.test.js
+PASS 8-kyu/How much water do I need?/index.test.js
+PASS 8-kyu/Grasshopper - Object syntax debug/index.test.js
+PASS 8-kyu/Grasshopper - Debug/index.test.js
+PASS 8-kyu/Convert a Boolean to a String/index.test.js
+PASS 8-kyu/Correct the mistakes of the character recognition software/index.test.js
+PASS 8-kyu/Expressions Matter /index.test.js
+PASS 8-kyu/Evil or Odious/index.test.js
+PASS 8-kyu/Be Concise III - Sum Squares/index.test.js
+PASS 6-kyu/Persistent Bugger/index.test.js
+PASS 5-kyu/Simple Pig Latin/index.test.js
+PASS 6-kyu/Who likes it?/index.test.js
+PASS 7-kyu/reverseIt/index.test.js
+PASS 6-kyu/Find the odd int/index.test.js
+PASS 7-kyu/Unscrambled eggs/index.test.js
+PASS 7-kyu/[Geometry A-2]: Length of a vector/index.test.js
+PASS 8-kyu/Are there any arrows left/index.test.js
+PASS 7-kyu/The Office III - Broken Photocopier/index.test.js
+PASS 7-kyu/Thinkful - String Drills: Repeater/index.test.js
+PASS 7-kyu/The Ladies of ENIAC/index.test.js
+PASS 7-kyu/Test Your Knowledge Of Function Scope/index.test.js
+PASS 7-kyu/Sum with Arrows/index.test.js
+PASS 7-kyu/Summing a number's digits/index.test.js
+PASS 7-kyu/Spoonerize Me/index.test.js
+PASS 7-kyu/Sorted? yes? no? how?/index.test.js
+PASS 7-kyu/Sort an array by value and index/index.test.js
+PASS 7-kyu/Sum of a sequence/index.test.js
+PASS 7-kyu/Simple string reversal II/index.test.js
+PASS 7-kyu/Simple elevator/index.test.js
+PASS 7-kyu/Sum of array singles/index.test.js
+PASS 7-kyu/Simple Fun #176: Reverse Letter/index.test.js
+PASS 7-kyu/Reimplement Multiplication Part 1/index.test.js
+PASS 7-kyu/Parallel resistors/index.test.js
+PASS 7-kyu/Most valuable character/index.test.js
+PASS 7-kyu/Linked Lists - Push & BuildOneTwoThree/index.test.js
+PASS 7-kyu/Money, Money, Money/index.test.js
+PASS 7-kyu/Inspiring Strings/index.test.js
+PASS 7-kyu/Find the stray number/index.test.js
+PASS 7-kyu/Largest pair sum in array/index.test.js
+PASS 7-kyu/Dictionary from two lists/index.test.js
+PASS 7-kyu/Find Duplicates /index.test.js
+PASS 7-kyu/Do you know how to make Query String?/index.test.js
+PASS 7-kyu/Factorial/index.test.js
+PASS 7-kyu/Evens times last/index.test.js
+PASS 7-kyu/Difference between two collections/index.test.js
+PASS 7-kyu/Describe a list /index.test.js
+PASS 7-kyu/Coding Meetup #3 - Higher-Order Functions Series - Is Ruby coming?/index.test.js
+PASS 7-kyu/Counting power sets/index.test.js
+PASS 7-kyu/Convert Integer to Binary/index.test.js
+PASS 7-kyu/Cat and Mouse - Easy Version/index.test.js
+PASS 7-kyu/Coding 3min: Bug in Apple/index.test.js
+PASS 7-kyu/Collatz Conjecture Length/index.test.js
+PASS 7-kyu/Basic JS - Calculating averages/index.test.js
+PASS 7-kyu/Basic JS - Building a calculator/index.test.js
+PASS 7-kyu/Calculate Meal Total/index.test.js
+PASS 7-kyu/C.Wars/index.test.js
+PASS 7-kyu/Average Scores/index.test.js
+PASS 7-kyu/Averages of numbers/index.test.js
+PASS 8-kyu/What's wrong with these identifiers?/index.test.js
+PASS 7-kyu/Arithmetic List/index.test.js
+PASS 7-kyu/Adding words - Part I/index.test.js
+PASS 8-kyu/Unexpected parsing/index.test.js
+PASS 8-kyu/a == a ?!/index.test.js
+PASS 8-kyu/Template Strings/index.test.js
+PASS 8-kyu/Training JS #31: Methods of arrayObject---isArray() indexOf() and toString()/index.test.js
+PASS 8-kyu/Twice as old/index.test.js
+PASS 8-kyu/Grasshopper - If else syntax debug/index.test.js
+PASS 8-kyu/Simple Change Machine/index.test.js
+PASS 8-kyu/How old will I be in 2099?/index.test.js
+PASS 8-kyu/Plural/index.test.js
+PASS 8-kyu/Grasshopper - Terminal game combat function/index.test.js
+PASS 8-kyu/Geometry Basics: Circle Area in 2D/index.test.js
+PASS 8-kyu/Fuel Calculator/index.test.js
+PASS 8-kyu/Find the Integral/index.test.js
+PASS 8-kyu/FIXME: Replace all dots/index.test.js
+PASS 8-kyu/Exclamation marks series #6: Remove n exclamation marks in the sentence from left to right/index.test.js
+PASS 8-kyu/Exclamation marks series #2: Remove all exclamation marks from the end of sentence/index.test.js
+PASS 8-kyu/Difference of Volumes of Cuboids/index.test.js
+PASS 8-kyu/Convert a Number to a String/index.test.js
+PASS 8-kyu/Broken Counter/index.test.js
+PASS 8-kyu/Capitalization and Mutability/index.test.js
+PASS 8-kyu/Convert a string to an array/index.test.js
+PASS 8-kyu/Beginner Series 1 School Paperwork/index.test.js
+PASS 8-kyu/Basic Mathematical Operations/index.test.js
+PASS 8-kyu/Alan Partridge II - Apple Turnover/index.test.js
+PASS 6-kyu/Find the divisors/index.test.js
+PASS 8-kyu/8kyu interpreters: HQ9+/index.test.js
+PASS 5-kyu/Not very secure/index.test.js
+PASS 7-kyu/Switcheroo/index.test.js
+PASS 7-kyu/The old switcheroo/index.test.js
+PASS 7-kyu/Thinkful - List Drills: Longest word/index.test.js
+PASS 5-kyu/Prefill an Array/index.test.js
+PASS 5-kyu/Calculating with Functions/index.test.js
+PASS 7-kyu/String Scramble/index.test.js
+PASS 7-kyu/Thinkful - String Drills: Repeater level 2/index.test.js
+PASS 7-kyu/YaCG: #1 Yet another Card Kata !/index.test.js
+PASS 7-kyu/Sequence generator/index.test.js
+PASS 7-kyu/SequenceSum/index.test.js
+PASS 7-kyu/Simple Fun #152: Invite More Women?/index.test.js
+PASS 7-kyu/Split The Bill/index.test.js
+PASS 7-kyu/Search for letters/index.test.js
+PASS 7-kyu/Remove duplicate words/index.test.js
+PASS 7-kyu/Remove All The Marked Elements of a List/index.test.js
+PASS 7-kyu/Predict your age/index.test.js
+PASS 7-kyu/Next birth-day of the week finder/index.test.js
+PASS 7-kyu/SCHEDULE YOUR DA(RRA)Y/index.test.js
+PASS 7-kyu/Recursion #1 - Factorial/index.test.js
+PASS 7-kyu/Number-Star ladder/index.test.js
+PASS 7-kyu/Return substring instance count/index.test.js
+PASS 7-kyu/Most digits/index.test.js
+PASS 7-kyu/Lazily executing a function/index.test.js
+PASS 7-kyu/Jenny the youngest detective/index.test.js
+PASS 7-kyu/Maximum Gap (Array Series #4)/index.test.js
+PASS 7-kyu/Is It Negative Zero (-0)?/index.test.js
+PASS 7-kyu/Heron's formula/index.test.js
+PASS 7-kyu/L2: Triple X/index.test.js
+PASS 7-kyu/Find the smallest power higher than a given a value/index.test.js
+PASS 7-kyu/Frequency sequence/index.test.js
+PASS 7-kyu/Finding length of the sequence/index.test.js
+PASS 7-kyu/HTML Generator/index.test.js
+PASS 7-kyu/Filter Coffee/index.test.js
+PASS 7-kyu/Enumerable Magic #5- True for Just One?/index.test.js
+PASS 7-kyu/Find an employees role in the company/index.test.js
+PASS 7-kyu/Count all the sheep on farm in the heights of New Zealand/index.test.js
+PASS 7-kyu/Exclamation marks series #8: Move all exclamation marks to the end of the sentence/index.test.js
+PASS 7-kyu/Complete The Pattern #2/index.test.js
+PASS 7-kyu/Array Array Array/index.test.js
+PASS 7-kyu/Bumps in the Road/index.test.js
+PASS 7-kyu/Char Code Calculation/index.test.js
+PASS 7-kyu/All Star Code Challenge #14/index.test.js
+PASS 7-kyu/Alphabet symmetry/index.test.js
+PASS 8-kyu/get ascii value of character/index.test.js
+PASS 7-kyu/Are they square?/index.test.js
+PASS 7-kyu/80's Kids #2: Help ALF Find His Spaceship/index.test.js
+PASS 8-kyu/Reverse List Order/index.test.js
+PASS 8-kyu/Pick a set of first elements/index.test.js
+PASS 8-kyu/Returning Strings/index.test.js
+PASS 8-kyu/You only need one - Beginner/index.test.js
+PASS 7-kyu/Arithmetic sequence - sum of n elements/index.test.js
+PASS 8-kyu/Grasshopper - Function syntax debugging/index.test.js
+PASS 8-kyu/Keep up the hoop/index.test.js
+PASS 8-kyu/Formatting decimal places #0/index.test.js
+PASS 8-kyu/BASIC: Making Six Toast/index.test.js
+PASS 8-kyu/Finish Guess the Number Game/index.test.js
+PASS 8-kyu/Basic subclasses - Adam and Eve/index.test.js
+PASS 8-kyu/Find Maximum and Minimum Values of a List/index.test.js
+PASS 8-kyu/Beginner - Reduce but Grow/index.test.js
+PASS 6-kyu/Delete occurrences of an element if it occurs more than n times/index.test.js
+PASS 6-kyu/Take a Ten Minute Walk/index.test.js
+PASS 6-kyu/Duplicate Encoder/index.test.js
+PASS 8-kyu/Add Length/index.test.js
+PASS 6-kyu/Create Phone Number/index.test.js
+PASS 5-kyu/Rot13/index.test.js
+PASS 5-kyu/The Hashtag Generator/index.test.js
+PASS 7-kyu/splicing/index.test.js
+PASS 7-kyu/uniquePush - No Dupes/index.test.js
+PASS 7-kyu/The Coupon Code/index.test.js
+PASS 7-kyu/The Owls Are Not What They Seem/index.test.js
+PASS 7-kyu/Sorting Dictionaries/index.test.js
+PASS 7-kyu/Simple beads count/index.test.js
+PASS 7-kyu/Sum of differences between products and LCMs/index.test.js
+PASS 7-kyu/Sum of angles/index.test.js
+PASS 7-kyu/Sort the Gift Code/index.test.js
+PASS 7-kyu/Rithm Series: Frame a Phrase Simple/index.test.js
+PASS 7-kyu/Max-min arrays/index.test.js
+PASS 7-kyu/Playing with Sets : Complement/index.test.js
+PASS 7-kyu/Replace every nth/index.test.js
+PASS 7-kyu/Find the longest gap!/index.test.js
+PASS 7-kyu/Histogram - H1/index.test.js
+PASS 7-kyu/Is n divisible by (...)/index.test.js
+PASS 7-kyu/Friday the 13th Part 1/index.test.js
+PASS 7-kyu/Folding your way to the moon/index.test.js
+PASS 7-kyu/Discover The Original Price/index.test.js
+PASS 7-kyu/Find the anonymous function/index.test.js
+PASS 7-kyu/Drying Potatoes/index.test.js
+PASS 7-kyu/Count the Ones/index.test.js
+PASS 7-kyu/Exclamation marks series #13: Count the number of exclamation marks and question marks, return the product/index.test.js
+PASS 7-kyu/Combine objects/index.test.js
+PASS 7-kyu/Array element parity/index.test.js
+PASS 7-kyu/Convert the score/index.test.js
+PASS 7-kyu/Change two-dimensional array/index.test.js
+PASS 7-kyu/All Star Code Challenge #1/index.test.js
+PASS 7-kyu/Ch4113ng3/index.test.js
+PASS 8-kyu/Remove First and Last Character Part Two/index.test.js
+PASS 8-kyu/Regex count lowercase letters/index.test.js
+PASS 8-kyu/Unicode Total/index.test.js
+PASS 8-kyu/Shifty Closures/index.test.js
+PASS 8-kyu/Total amount of points/index.test.js
+PASS 7-kyu/Array Leaders (Array Series #3)/index.test.js
+PASS 8-kyu/Grasshopper - Messi goals function/index.test.js
+PASS 8-kyu/Geometry Basics: Distance between points in 2D/index.test.js
+PASS 8-kyu/Grasshopper - Summation/index.test.js
+PASS 8-kyu/Is your period late?/index.test.js
+PASS 8-kyu/Enumerable Magic #4 - True for None/index.test.js
+PASS 8-kyu/Function 1 - hello world/index.test.js
+PASS 8-kyu/Miles per gallon to kilometers per liter/index.test.js
+PASS 8-kyu/Push a hash an object into array/index.test.js
+PASS 8-kyu/Find the Slope/index.test.js
+PASS 8-kyu/A function within a function/index.test.js
+PASS 8-kyu/Enumerable Magic #1 - True for All?/index.test.js
+PASS 8-kyu/Bin to Decimal/index.test.js
+PASS 8-kyu/Beginner - Lost Without a Map/index.test.js
+PASS 8-kyu/Fake Binary/index.test.js
+PASS 8-kyu/Do I get a bonus?/index.test.js
+PASS 5-kyu/Maximum subarray sum/index.test.js
+PASS 6-kyu/Selective Array Reversing/index.test.js
+PASS 8-kyu/Array plus array/index.test.js
+PASS 7-kyu/You Can't Code Under Pressure #2/index.test.js
+PASS 6-kyu/Find the missing letter/index.test.js
+PASS 7-kyu/Working with arrays I (and why your code fails in some katas)/index.test.js
+PASS 5-kyu/Extract the domain name from a URL/index.test.js
+PASS 7-kyu/True Min/index.test.js
+PASS 7-kyu/Show multiples of 2 numbers within a range/index.test.js
+PASS 7-kyu/Monotone travel/index.test.js
+PASS 7-kyu/Selective fear of numbers/index.test.js
+PASS 7-kyu/Scrabble Score/index.test.js
+PASS 7-kyu/Say hello/index.test.js
+PASS 7-kyu/Alternate case/index.test.js
+PASS 8-kyu/Unfinished Loop - Bug Fixing #1/index.test.js
+PASS 7-kyu/Convert Hash To An Array/index.test.js
+PASS 8-kyu/Subtract the Sum/index.test.js
+PASS 8-kyu/Training JS #12: loop statement --for..in and for..of/index.test.js
+PASS 7-kyu/Array Appender/index.test.js
+PASS 7-kyu/Super Secret Password Generator/index.test.js
+PASS 8-kyu/Remove duplicates from list/index.test.js
+PASS 8-kyu/Find Nearest square number/index.test.js
+PASS 8-kyu/Enumerable Magic #25 - Take the First N Elements/index.test.js
+PASS 8-kyu/Contamination #1 -String-/index.test.js
+PASS 8-kyu/Abbreviate a Two Word Name/index.test.js
+PASS 7-kyu/refactoring the statement/index.test.js
+PASS 8-kyu/Find numbers which are divisible by given number/index.test.js
+PASS 5-kyu/Guess The Gifts!/index.test.js
+PASS 6-kyu/Is a number prime?/index.test.js
+PASS 8-kyu/Be Concise IV - Index of an element in an array/index.test.js
+PASS 6-kyu/Your order, please/index.test.js
+PASS 6-kyu/Find the capitals/index.test.js
+PASS 8-kyu/A bugs trilogy: Episode 1 - "Let Math.Random(); decide your future"/index.test.js
+PASS 7-kyu/Well of Ideas - Harder Version/index.test.js
+PASS 7-kyu/Substituting Variables Into Strings: Padded Numbers/index.test.js
+PASS 7-kyu/Sum The Array/index.test.js
+PASS 7-kyu/Simple Fun #37: House Numbers Sum/index.test.js
+PASS 7-kyu/Dominant array elements/index.test.js
+PASS 7-kyu/Number of Rectangles in a Grid/index.test.js
+PASS 7-kyu/maxPossibleScore/index.test.js
+PASS 7-kyu/Javascript Namespacing/index.test.js
+PASS 7-kyu/Convert an array of strings to array of numbers/index.test.js
+PASS 7-kyu/Shorten Me: Array Declaration IV (1-30)/index.test.js
+PASS 7-kyu/Credit Card Mask/index.test.js
+PASS 7-kyu/Head, Tail, Init and Last/index.test.js
+PASS 7-kyu/Class conundrum - Bug Fixing #7/index.test.js
+PASS 8-kyu/validate code with simple regex/index.test.js
+PASS 7-kyu/Area of a Circle/index.test.js
+PASS 8-kyu/Triple Trouble/index.test.js
+PASS 8-kyu/Mr. Freeze/index.test.js
+PASS 8-kyu/Hello, Name or World!/index.test.js
+PASS 8-kyu/Sort and Star/index.test.js
+PASS 8-kyu/Sleigh Authentication/index.test.js
+PASS 8-kyu/Get the mean of an array/index.test.js
+PASS 8-kyu/Simple Fun #1: Seats in Theater/index.test.js
+PASS 8-kyu/Removing Elements/index.test.js
+PASS 8-kyu/Surface Area and Volume of a Box/index.test.js
+PASS 8-kyu/Double Char/index.test.js
+PASS 8-kyu/Enumerable Magic #2 - True for Any?/index.test.js
+PASS 8-kyu/Calculate BMI/index.test.js
+PASS 7-kyu/String to integer conversion/index.test.js
+PASS 8-kyu/Even or Odd/index.test.js
+PASS 6-kyu/Which are in?/index.test.js
+PASS 7-kyu/Nothing special/index.test.js
+PASS 8-kyu/DNA to RNA Conversion/index.test.js
+PASS 7-kyu/Lucky Bus Ticket/index.test.js
+PASS 7-kyu/CompoundArray/index.test.js
+PASS 5-kyu/Sum of Pairs/index.test.js
+PASS 7-kyu/Failed Filter - Bug Fixing #3/index.test.js
+PASS 7-kyu/Alternate Square Sum/index.test.js
+PASS 7-kyu/My Languages/index.test.js
+PASS 7-kyu/Coding Meetup #14 - Higher-Order Functions Series - Order the food/index.test.js
+PASS 7-kyu/Gradually Adding Parameters/index.test.js
+PASS 7-kyu/Case swapping/index.test.js
+PASS 8-kyu/No zeros for heros/index.test.js
+PASS 8-kyu/noobCode 01: SUPERSIZE ME.... or rather, this integer/index.test.js
+PASS 7-kyu/Find the lucky numbers/index.test.js
+PASS 8-kyu/I love you, a little , a lot, passionately ... not at all/index.test.js
+PASS 8-kyu/Character Frequency/index.test.js
+PASS 7-kyu/The old switcheroo 2/index.test.js
+PASS 8-kyu/Switch it Up/index.test.js
+PASS 7-kyu/Unique Pairs/index.test.js
+PASS 7-kyu/zero-balanced Array/index.test.js
+PASS 8-kyu/Arguments to Binary addition/index.test.js
+PASS 5-kyu/Scramblies/index.test.js
+PASS 7-kyu/Simple Maths Test/index.test.js
+PASS 7-kyu/Sequence to 1/index.test.js
+PASS 7-kyu/GA-DE-RY-PO-LU-KI cypher/index.test.js
+PASS 7-kyu/Maximum Multiple/index.test.js
+PASS 7-kyu/Form The Largest /index.test.js
+PASS 7-kyu/Leap Years/index.test.js
+PASS 7-kyu/Fix string case/index.test.js
+PASS 7-kyu/Array2Binary addition/index.test.js
+PASS 7-kyu/Changing letters/index.test.js
+PASS 7-kyu/lucky number/index.test.js
+PASS 8-kyu/Count the number of cubes with paint on/index.test.js
+PASS 7-kyu/Caffeine Script/index.test.js
+PASS 7-kyu/Two Oldest Ages/index.test.js
+PASS 7-kyu/The highest profit wins/index.test.js
+PASS 7-kyu/Figurate Numbers #2 - Pronic Number/index.test.js
+PASS 8-kyu/Squash the bugs/index.test.js
+PASS 7-kyu/Milk and Cookies for Santa/index.test.js
+PASS 7-kyu/Regexp Basics - is it a hexadecimal number?/index.test.js
+PASS 7-kyu/Simple Fun #136: Missing Values/index.test.js
+PASS 7-kyu/Cartesian coordinates from degree angle/index.test.js
+PASS 7-kyu/Mean vs. Median/index.test.js
+PASS 8-kyu/Wilson primes/index.test.js
+PASS 7-kyu/Band name generator/index.test.js
+PASS 7-kyu/Average Array/index.test.js
+PASS 7-kyu/Recycle!/index.test.js
+PASS 7-kyu/Remove the minimum/index.test.js
+PASS 8-kyu/Return Negative/index.test.js
+PASS 8-kyu/Grader/index.test.js
+PASS 6-kyu/Are they the same?/index.test.js
+PASS 8-kyu/Find the Difference in Age between Oldest and Youngest Family Members/index.test.js
+PASS 7-kyu/Factorial Factory/index.test.js
+PASS 7-kyu/Arithmetic Sequence/index.test.js
+PASS 7-kyu/Slope of a Line/index.test.js
+PASS 7-kyu/Pizza Payments/index.test.js
+PASS 8-kyu/Man in the west/index.test.js
+PASS 7-kyu/Largest Elements/index.test.js
+PASS 7-kyu/Breaking chocolate problem/index.test.js
+PASS 7-kyu/What comes after? /index.test.js
+PASS 7-kyu/Transpose two strings in an array/index.test.js
+PASS 8-kyu/Will there be enough space?/index.test.js
+PASS 8-kyu/For Twins: 1. Types/index.test.js
+PASS 7-kyu/Make a function that does arithmetic/index.test.js
+PASS 7-kyu/Binary Addition/index.test.js
+PASS 8-kyu/isReallyNaN/index.test.js
+PASS 7-kyu/Number Of Occurrences/index.test.js
+PASS 7-kyu/Sum of two lowest positive integers/index.test.js
+PASS 8-kyu/Printing Array elements with Comma delimiters/index.test.js
+PASS 7-kyu/Easy mathematical callback/index.test.js
+PASS 7-kyu/Complementary DNA/index.test.js
+PASS 7-kyu/Filter the number/index.test.js
+PASS 7-kyu/Smallest value of an array/index.test.js
+PASS 7-kyu/Alternate capitalization/index.test.js
+PASS 8-kyu/Playing with cubes II/index.test.js
+PASS 7-kyu/Happy Coding : Correct The Leaderboard/index.test.js
+PASS 7-kyu/Re-open class/index.test.js
+PASS 8-kyu/Barking mad/index.test.js
+PASS 7-kyu/SantaClausable Interface/index.test.js
+PASS 7-kyu/Coding Meetup #1 - Higher-Order Functions Series - Count the number of JavaScript developers coming from Europe/index.test.js
+PASS 7-kyu/esreveR gnirtS/index.test.js
+
+Test Suites: 1075 passed, 1075 total
+Tests:       4086 passed, 4086 total
+Snapshots:   0 total
+Time:        3.603 s, estimated 6 s
+Ran all test suites.
